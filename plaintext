@@ -1,0 +1,10 @@
+data-migration
+├── README.md
+├── config
+│   ├── source_config.py
+│   └── target_config.py
+├── migrate_data.py
+├── requirements.txt
+└── sql
+    ├── create_tables.sql
+    └── migration_queries.sql
